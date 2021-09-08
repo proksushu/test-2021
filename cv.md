@@ -38,4 +38,4 @@ I’m studying JS/Frontend.STAGE0 course (RS School). It’s my the first experi
 
 ## 6. English level
 
-My English is on an elementary level. Now I’m studying English myself with the help of Lingualeo and Duolingo. I believe that I’ll speak and understand English in the future
+My English is on an elementary level. Now I’m studying English myself with the help of Lingualeo and Duolingo. I believe that I’ll speak and understand English in the future.
