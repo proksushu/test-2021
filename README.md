@@ -1,1 +1,1 @@
-# rsschool-cv
+https://proksushu.github.io/rsschool-cv/cv
