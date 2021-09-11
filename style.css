@@ -1,6 +1,6 @@
 body {
     font-family: 'Urbanist', sans-serif;
-    color: #525050;
+    color: #535151;
 }
 
 html {
@@ -20,13 +20,13 @@ h4 {
     font-size: 24px;
 }
 
-.header {
-    display: block;
-    justify-content: space-between;
+h5 {
+    font-size: 18px;
+    color: #b4810b;
 }
 
 .wrapper {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: auto;
 }
 .wrapper__header {
@@ -40,17 +40,21 @@ figure {
     float: right;
 }
 .navigation {
-    display: inline-block;
-    text-align: justify;
+    text-align: right;
+    background: #b4810b;
+    
 }
+
 .section {
-    box-shadow: 0px 4px 20px #979393;
+    box-shadow: 0px 4px 10px #979393;
     padding: 0 30px 15px 30px;
     text-align: justify;
 }
 
-footer {
+.footer {
     display: flex;
+    padding: 1%;
+    background: #b4810b;
 }
 .list__header {
     list-style: none;
@@ -58,5 +62,12 @@ footer {
 a {
     text-decoration: none; 
     font-size: 24px;
-    color: #b4810b;
+    color: #ffffff;
+    display: inline-block;
+    padding: 1%;
    }
+
+a:hover {
+color: #535151;
+text-decoration: none;
+}
