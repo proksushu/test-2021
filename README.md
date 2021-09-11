@@ -1,1 +1,1 @@
-https://proksushu.github.io/rsschool-cv/rsschool-cv-html/index.html
+https://proksushu.github.io/rsschool-cv/
