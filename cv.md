@@ -1,5 +1,5 @@
 # Oksana Promanenkova
-![Myphoto](https://image.ibb.co/WFx17Sr/Myphoto_md.jpg)
+![Myphoto](https://ibb.co/WFx17Sr/Myphoto_md.jpg)
 ## 1. Contacts
 
 * Tel: +375 29 1516414
