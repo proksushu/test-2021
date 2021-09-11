@@ -9,15 +9,13 @@ html {
 
 h1 {
     font-size: 48px;
+    color: #b4810b;
 }
 
 h2 {
     font-size: 34px;
-    color: #b4810b;
 }
-.header__h2 {
-    
-}
+
 h4 {
     font-size: 24px;
 }
