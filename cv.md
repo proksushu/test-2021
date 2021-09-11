@@ -1,5 +1,5 @@
 # Oksana Promanenkova
-
+![Myphoto-md.jpg](https://postimg.cc/dD38nQ39)
 ## 1. Contacts
 
 * Tel: +375 29 1516414
@@ -12,7 +12,7 @@
 I am 39 y.o., married, have the daughter (14 y.o.) and the son (10 y.o.). More then 15 years I have been working as an accounter. Now I am a Chief Accountant in an industrial organization.
 
 I like to study something new. I like sport and healthy lifestyle. I like to work and to see the results of my work. I like to be usefull for another people. Now I want to change my profession. I am interesting in computer technologies and want to try myself as a programmist. Programming languages are difficult for learning but they are very interesting for me. I like hard purposes.
->That which does not kill us makes us stronger.
+> That which does not kill us makes us stronger.
 
 ## 3. Education
 
