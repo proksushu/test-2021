@@ -1,5 +1,5 @@
 # Oksana Promanenkova
-Date of birth: 20.07.1982 
+### Date of birth: 20.07.1982 
 ![Myphoto](https://github.com/proksushu/rsschool-cv/blob/gh-pages/Myphoto_md.png)
 ## 1. Contacts
 
