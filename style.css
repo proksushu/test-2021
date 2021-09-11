@@ -1,0 +1,61 @@
+body {
+    font-family: 'Urbanist', sans-serif;
+    color: #525050;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 34px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+.header {
+    display: block;
+    justify-content: space-between;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: auto;
+}
+.wrapper__header {
+    display: flex;
+}
+
+.header__contacts {
+    width: 70%;
+}
+figure {
+    float: right;
+}
+.navigation {
+    display: inline-block;
+    text-align: justify;
+}
+.section {
+    box-shadow: 0px 4px 20px #979393;
+    padding: 0 30px 15px 30px;
+    text-align: justify;
+}
+
+footer {
+    display: flex;
+}
+.list__header {
+    list-style: none;
+}
+a {
+    text-decoration: none; 
+    font-size: 24px;
+    color: #b4810b;
+   }
