@@ -36,7 +36,6 @@ h5 {
 }
 .wrapper__header {
     display: flex;
-    max-height: 363px;
 }
 
 .wrapper__navigation {
@@ -61,8 +60,7 @@ figure {
 }
 .navigation {
     text-align: right;
-    background: #b4810b;
-    
+    background: #b4810b; 
 }
 
 .section {
