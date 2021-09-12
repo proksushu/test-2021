@@ -56,6 +56,9 @@ h5 {
 figure {
     float: right;
 }
+.wrapper__figure {
+    display: block;
+}
 .navigation {
     text-align: right;
     background: #b4810b;
