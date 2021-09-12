@@ -16,6 +16,11 @@ h2 {
     font-size: 34px;
 }
 
+h3 {
+    font-size: 28px;
+    color: #ffffff;
+}
+
 h4 {
     font-size: 24px;
 }
@@ -31,8 +36,20 @@ h5 {
 }
 .wrapper__header {
     display: flex;
+    max-height: 363px;
 }
 
+.wrapper__navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper__footer {
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+    text-align: center;
+}
 .header__contacts {
     width: 70%;
 }
@@ -56,6 +73,7 @@ figure {
     padding: 1%;
     background: #b4810b;
 }
+
 .list__header {
     list-style: none;
 }
@@ -63,8 +81,6 @@ a {
     text-decoration: none; 
     font-size: 24px;
     color: #ffffff;
-    display: inline-block;
-    padding: 1%;
    }
 
 a:hover {
