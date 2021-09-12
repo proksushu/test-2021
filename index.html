@@ -17,15 +17,15 @@
             <div>
                 <ul class="list__header">
                     <li>Date of birth: 20 July, 1982</li>
-                    <li>Tel: +375 29 1516414</li>
-                    <li>E-mail: proksushu@yandex.ru</li> 
+                    <li>Tel: <a class="a__header" href="tel:+375291516414">+375 (29) 151-64-14</a></li>
+                    <li>E-mail: <a class="a__header" href="mailto:proksushu@yandex.ru">proksushu@yandex.ru</a></li> 
                     <li>Telegram: @oksa.sw</li>
                     <li>Discord: Oksana Promanenkova(@proksushu)</li> 
                 </ul>
             </div>
             </div>
             <figure class="wrapper__figure">
-                <img src="img/Myphoto_md.jpg" alt="Photo Promanenkova.O" style="width: 100%;">
+                <img src="img/Myphoto_md.jpg" alt="Photo Promanenkova.O" style="width: 280px">
             </figure>
         </div>
     </header>
@@ -57,7 +57,7 @@
     </section>
     <section class="section" id="section2">
         <div class="wrapper">
-        <h2>Education</h2>
+        <h2><img src="img/icon-education.jpg" alt="education" width="50px">Education</h2>
         <h5>1999-2004</h5>
         <p>Belarusian State Economic Iniversity.</p>
         <p>Specialization: Accounting and Economics, bachelor’s degree</p>
@@ -66,6 +66,9 @@
     <section class="section" id="section3">
         <div class="wrapper">
         <h2>Work experience</h2>
+        <p>This is my first html page. Working as an accountant,
+            I noticed that I was very interested in programs from the inside.
+            I always liked to study the configuration.</p>
         </div>
     </section>
     <section class="section" id="section4">
@@ -98,6 +101,27 @@
         <h5>Russian</h5> <p>Native</p>
         <h5>English</h5> <p>Elementary Level. Now I’m studying English myself with the help of Lingualeo and Duolingo. I believe that I’ll speak and understand English in the future.</p>
         </div>
+    </section>
+    <section class="write__me">
+        <div class="wrapper">
+            <h2>You can write me</h2>
+        <div class="form">
+            <form action="mailto:proksushu@yandex.ru" method="POST">
+                <div>
+                    <input type="text" name="name" placeholder="Your name"> 
+                    <input type="email" name="email" placeholder="Your email"> 
+                </div>
+                <div class="form__text">
+                    <textarea name="question" cols="20" rows="10" placeholder="What do you want to ask?"></textarea>
+                </div>
+            </form>
+            <div class="buttom">
+                <button type="submit" class="buttom__colored">Send</button>
+            </div>
+
+        </div>
+        </div>
+        
     </section>
 <footer class="footer">
     <div class="wrapper wrapper__footer">
