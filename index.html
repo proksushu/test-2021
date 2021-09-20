@@ -14,29 +14,28 @@
             <div class="header__contacts">
                 <h1>Hello, I am Oksana Promanenkova</h1>
             <h2>Front-end Developer</h2>
-            <div>
-                <ul class="list__header">
-                    <li>Date of birth: 20 July, 1982</li>
-                    <li>Tel: <a class="a__header" href="tel:+375291516414">+375 (29) 151-64-14</a></li>
-                    <li>E-mail: <a class="a__header" href="mailto:proksushu@yandex.ru">proksushu@yandex.ru</a></li> 
-                    <li>Telegram: @oksa.sw</li>
-                    <li>Discord: Oksana Promanenkova(@proksushu)</li> 
-                </ul>
+            <div class="list__header">
+                    <a class="a__header"><img src="img/icon_cake.png" alt="cake" width=18>Date of birth: 20 July, 1982</a>
+                    <a class="a__header" href="tel:+375291516414"><img src="img/icons_telephone.jpg" alt="phone" width=18>Tel: +375 (29) 151-64-14</a>
+                    <a class="a__header" href="mailto:proksushu@yandex.ru"><img src="img/icons-email.png" alt="email" width=18>E-mail: proksushu@yandex.ru</a> 
+                    <a class="a__header"><img src="img/icons-telegram.jpg" alt="telegram" width=18>Telegram: @oksa.sw</a>
+                    <a class="a__header"><img src="img/icons_discord.png" alt="discord" width=18>Discord: Oksana Promanenkova(@proksushu)</a> 
             </div>
             </div>
             <figure class="wrapper__figure">
-                <img src="img/Myphoto_md.jpg" alt="Photo Promanenkova.O" style="width: 280px">
+                <img src="img/Myphoto_md.jpg" alt="Photo Promanenkova.O" style="width:100%">
             </figure>
         </div>
     </header>
+    <main>
     <nav class="navigation">
         <div class="wrapper wrapper__navigation">
-        <a href="#section1">About me</a> 
-        <a href="#section2">Education</a> 
-        <a href="#section3">Work experience</a> 
-        <a href="#section4">Skills</a> 
-        <a href="#section5">Hobbies</a> 
-        <a href="#section6">Languages</a>
+        <a class="a__nav" href="#section1">About me</a> 
+        <a class="a__nav" href="#section2">Education</a> 
+        <a class="a__nav" href="#section3">Work experience</a> 
+        <a class="a__nav" href="#section4">Skills</a> 
+        <a class="a__nav" href="#section5">Hobbies</a> 
+        <a class="a__nav" href="#section6">Languages</a>
         </div>
     </nav>
     <section class="section" id="section1">
@@ -57,8 +56,8 @@
     </section>
     <section class="section" id="section2">
         <div class="wrapper">
-        <h2><img src="img/icon-education.jpg" alt="education" width="50px">Education</h2>
-        <h5>1999-2004</h5>
+        <h2>Education</h2>
+        <h4>1999-2004</h4>
         <p>Belarusian State Economic Iniversity.</p>
         <p>Specialization: Accounting and Economics, bachelor’s degree</p>
         </div>
@@ -98,15 +97,15 @@
     <section class="section" id="section6">
         <div class="wrapper">
         <h2>Languages</h2>
-        <h5>Russian</h5> <p>Native</p>
-        <h5>English</h5> <p>Elementary Level. Now I’m studying English myself with the help of Lingualeo and Duolingo. I believe that I’ll speak and understand English in the future.</p>
+        <h4>Russian</h4> <p>Native</p>
+        <h4>English</h4> <p>Elementary Level. Now I’m studying English myself with the help of Lingualeo and Duolingo. I believe that I’ll speak and understand English in the future.</p>
         </div>
     </section>
     <section class="write__me">
         <div class="wrapper">
             <h2>You can write me</h2>
         <div class="form">
-            <form action="mailto:proksushu@yandex.ru" method="POST">
+            <form action="mailto:proksushu@yandex.ru" method="POST" autocomplete="off">
                 <div>
                     <input type="text" name="name" placeholder="Your name"> 
                     <input type="email" name="email" placeholder="Your email"> 
@@ -123,6 +122,7 @@
         </div>
         
     </section>
+    </main>
 <footer class="footer">
     <div class="wrapper wrapper__footer">
     <a href="https://github.com/proksushu">Proksushu</a>
@@ -131,4 +131,5 @@
     </div>  
 </footer>
 </body>
+<script src="skript.js"></script>
 </html>
